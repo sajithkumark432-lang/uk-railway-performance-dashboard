@@ -11,7 +11,7 @@ and identify growth opportunities.
 - What are the primary reasons for service delays?
 - How does travel demand vary by departure time and ticket type?
 - Which operational improvements can reduce delays and improve reliability?
-- 
+  
 ## KPIs
 - Total Revenue
 - Revenue by Ticket Class and Ticket Type
