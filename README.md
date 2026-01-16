@@ -56,4 +56,6 @@ and service reliability.
 ---
 
 <img width="1304" height="708" alt="Full_dashboard image" src="https://github.com/user-attachments/assets/8f405602-d79b-4c74-a594-df28a7709930" />
+<img width="1428" height="811" alt="Delayed Train image" src="https://github.com/user-attachments/assets/90f3fead-b89a-46c1-bb8a-5ca1d6f40a64" />
+
 
