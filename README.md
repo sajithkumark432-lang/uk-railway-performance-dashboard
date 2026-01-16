@@ -43,14 +43,14 @@ and service reliability.
 
 - Advance and Anytime tickets dominate peak travel periods, particularly during morning and evening hours, suggesting strong commuter demand and limited price sensitivity during these time windows.
 
-- Service reliability remains high, with the majority of journeys operating on time; however, delays still represent a meaningful operational risk that directly impacts customer satisfaction.
+- Service reliability remains high, with the majority of journeys operating on time however, delays still represent a meaningful operational risk that directly impacts customer satisfaction.
 
-- Staffing-related issues are the leading cause of delays, exceeding weather and traffic factors, highlighting a clear opportunity for operational planning and workforce optimization.
+- Staffing related issues are the leading cause of delays, exceeding weather and traffic factors, highlighting a clear opportunity for operational planning and workforce optimization.
 
 - High-traffic routes and major departure stations account for a disproportionate share of total journeys, indicating where capacity expansion, timetable optimization, and service improvements would deliver the highest impact.
 
 - Peak-hour congestion aligns with increased delay frequency, reinforcing the need for targeted interventions during high-demand periods rather than broad, system-wide changes.
 
 ---
-#### Overall, the analysis identifies clear opportunities to improve operational efficiency, optimize pricing strategies, and enhance passenger experience by focusing on peak-hour demand, staffing optimization, and high-volume routes.
+#### Overall, the analysis identifies clear opportunities to improve operational efficiency, optimize pricing strategies, and enhance passenger experience by focusing on peak-hour demand, staffing optimization, and high volume routes.
 ---
